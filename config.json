@@ -1,0 +1,6 @@
+{
+  "clientID": "",
+ 
+  "prefix": "p.",
+  "mongooseConnectionString": ""
+}

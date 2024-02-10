@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Comang/mute.js": [
+      {
+        "id": "18c09c42-ebb2-405a-b590-e45ad463235f",
+        "line": 9,
+        "version": 786,
+        "index": 527
+      }
+    ],
+    "main.js": [
+      {
+        "id": "7776a255-905c-4067-aa35-60c963c59215",
+        "line": 6,
+        "version": 221,
+        "index": 95
+      }
+    ]
+  }
+}
