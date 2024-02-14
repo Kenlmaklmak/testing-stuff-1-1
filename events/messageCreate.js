@@ -1,7 +1,10 @@
 const client = require("../index");
-let member = message.member
+
 
 client.on("messageCreate", async (message) => {
+  let member = message.member
+
+  
   if(message.author.bot) return;
   if (message.guild.id !== '989779307457044523') return;
 
