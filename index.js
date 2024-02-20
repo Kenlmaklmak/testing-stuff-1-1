@@ -4,6 +4,7 @@ const app = express();
 
 const client = new Client({
   intents: 32767,
+  restRequestTimeout: 60000,
 });
 module.exports = client;
 
